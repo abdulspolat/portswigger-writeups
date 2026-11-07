@@ -30,3 +30,15 @@ Bu depo, PortSwigger Web Security Academy lab'lerini çözerken aldığım notla
 | 04 | File path traversal, traversal sequences stripped with superfluous URL-decode | Practitioner | [TR](path-traversal/04-superfluous-url-decode.tr.md) | [EN](path-traversal/04-superfluous-url-decode.en.md) |
 | 05 | File path traversal, validation of start of path | Practitioner | [TR](path-traversal/05-start-of-path-validation.tr.md) | [EN](path-traversal/05-start-of-path-validation.en.md) |
 | 06 | File path traversal, validation of file extension with null byte bypass | Practitioner | [TR](path-traversal/06-null-byte-bypass.tr.md) | [EN](path-traversal/06-null-byte-bypass.en.md) |
+
+
+## Authentication
+
+| # | Lab | Seviye / Level | TR | EN |
+|---|-----|----------------|----|----|
+| 01 | Username enumeration via different responses | Apprentice | [TR](Authentication/01-username-enumeration-farkli-yanitlar.tr.md) | [EN](Authentication/01-username-enumeration-different-responses.en.md) |
+| 02 | Username enumeration via subtly different responses | Practitioner | [TR](Authentication/02-username-enumeration-ince-farklar.tr.md) | [EN](Authentication/02-username-enumeration-subtly-different.en.md) |
+| 03 | Username enumeration via response timing | Practitioner | [TR](Authentication/03-username-enumeration-response-timing.tr.md) | [EN](Authentication/03-username-enumeration-response-timing.en.md) |
+| 04 | Broken brute-force protection, IP block | Practitioner | [TR](Authentication/04-broken-brute-force-ip-block.tr.md) | [EN](Authentication/04-broken-brute-force-ip-block.en.md) |
+| 05 | Username enumeration via account lock | Practitioner | [TR](Authentication/05-username-enumeration-account-lock.tr.md) | [EN](Authentication/05-username-enumeration-account-lock.en.md) |
+| 06 | Broken brute-force protection, multiple credentials per request | Expert | [TR](Authentication/06-multiple-credentials-per-request.tr.md) | [EN](Authentication/06-multiple-credentials-per-request.en.md) |
